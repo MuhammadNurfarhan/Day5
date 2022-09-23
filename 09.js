@@ -1,3 +1,4 @@
+// Menyaring data
 const peoples = [
     {id: 1, name: 'Udin', age: 12},
     {id: 2, name: 'Wati', age: 51},
